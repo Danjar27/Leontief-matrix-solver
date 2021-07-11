@@ -1,6 +1,6 @@
 <h1>How to use it</h1>
 
-Import the module to your computer usin <b>pip install Leontief</b>
+Import the module to your computer using <b>pip install Leontief</b>
 
 Use <b>from Leontief.leontief import * </b> to import it to your document
 
