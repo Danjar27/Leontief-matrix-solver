@@ -1,6 +1,8 @@
 <h1>How to use it</h1>
 
-Use <b>from leontief import * </b>
+Import the module to your computer usin <b>pip install Leontief</b>
+
+Use <b>from Leontief.leontief import * </b> to import it to your document
 
 
 Package contains one function: leontief(values,names,demand,new_demand) 
