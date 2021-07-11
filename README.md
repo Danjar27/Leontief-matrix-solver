@@ -18,10 +18,8 @@ For <b>values</b> you must not use columns but rows of the matrix you want to so
 | B | a2 | b2 |
             
 
-you must create an np.array with this format:
+you must create a np.array with this format <b>[[a1, b1],[a2,b2]]</b> rather than [[a1, a2],[b1, b2]]
 
-values = [[a1, b1],[a2.,b2]]
+<b>names</b> use an array of String values for table column's names just like ['A','B']
 
-rather than 
-
-values = [[a1, a2],[b1, b2]]
+<b>Demand</b> and <b>New demand</b> are n vectors you can create using np.array [c1,c2,c3 ... ]
