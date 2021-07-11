@@ -22,4 +22,4 @@ you must create a np.array with this format <b>[[a1, b1],[a2,b2]]</b> rather tha
 
 <b>names</b> use an array of String values for table column's names just like ['A','B']
 
-<b>Demand</b> and <b>New demand</b> are n vectors you can create using np.array [c1,c2,c3 ... ] their dimension must be same as number of rows ther are in values array 
+<b>Demand</b> and <b>New demand</b> are n vectors you can create using np.array [c1,c2,c3 ... ] their dimension must be same as number of rows there are in values 
