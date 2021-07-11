@@ -11,10 +11,12 @@ You must replace all four given arguments in order to solve a matrix.
 
 For <b>values</b> you must not use columns but rows of the matrix you want to solve. For instance, if you matrix looks like this:
 
-            |       A         |        B
-----------------------------------------
-            |        a1        |        b1  
-            |        a2       |        b2
+
+|   | A  | B  |
+|---|----|----|
+| A | a1 | b1 |
+| B | a2 | b2 |
+            
 
 you must create an np.array with this format:
 
