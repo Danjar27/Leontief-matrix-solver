@@ -1,8 +1,6 @@
 <h1>How to use it</h1>
 
-Use
-
-from leontief import *
+Use <b>from leontief import * </b>
 
 
 Package contains one function: leontief(values,names,demand,new_demand) 
